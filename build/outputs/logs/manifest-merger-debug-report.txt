@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\OK\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e990f573a473c44dc376afbe286506cb\AndroidManifest.xml:14:4-17:12
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\OK\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e990f573a473c44dc376afbe286506cb\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\OK\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e990f573a473c44dc376afbe286506cb\AndroidManifest.xml:15:5-42
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:15:5-86
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:15:22-83
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:16:22-85
+application
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:18:5-32:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\OK\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e990f573a473c44dc376afbe286506cb\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\OK\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\e990f573a473c44dc376afbe286506cb\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:22:9-67
+activity#com.alldoudizhu.app.MainActivity
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:launchMode
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:24:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from G:\StudioWorkspase\AllDoudizhu\app\src\main\AndroidManifest.xml:29:27-74
